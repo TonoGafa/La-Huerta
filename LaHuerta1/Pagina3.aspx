@@ -65,7 +65,7 @@
       <input class="form-check-input" type="checkbox"/> Recordarme
     </label>
   </div>
-  <button type="submit" class="btn btn-primary">Registrar</button>
+  <button type="submit" class="btn btn-primary" name="registrar">Registrar</button>
             
             </div>
             <div class="col-sm-4 align-content-center">
