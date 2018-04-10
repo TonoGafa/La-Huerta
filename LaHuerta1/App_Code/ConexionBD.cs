@@ -31,7 +31,6 @@ public class ConexionBD
         ingresa.Parameters.AddWithValue("@domicilio", Registros[4]);
         ingresa.Parameters.AddWithValue("@email", Registros[5]);
         ingresa.Parameters.AddWithValue("@password", Registros[6]);
-
         int R = 0;
         try
         {
