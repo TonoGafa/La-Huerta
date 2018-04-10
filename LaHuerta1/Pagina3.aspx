@@ -31,36 +31,38 @@
             </div>
       <div class="col-sm-4 mx-auto d-block">
      <div class="form-group">
-    <label for="name">Nombre</label>
-    <input type="text" class="form-control" id="nombre">
+    <label for="name">Nombre:</label>
+    <input type="text" class="form-control" id="Nombre"/>
   </div>
      <div class="form-group">
-    <label for="name">Apellidos</label>
-    <input type="text" class="form-control" id="apellidos">
+    <label for="name">Apellidos:</label>
+    <input type="text" class="form-control" id="Apellidos"/>
+  </div>
+          
+            <div class="form-group">
+    <label for="name">Estado:</label>
+    <input type="text" class="form-control" id="Estado"/>
   </div>
             <div class="form-group">
-    <label for="name">Pais</label>
-    <input type="text" class="form-control" id="pais">
+    <label for="name">Ciudad:</label>
+    <input type="text" class="form-control" id="Ciudad"/>
   </div>
             <div class="form-group">
-    <label for="name">Estado</label>
-    <input type="text" class="form-control" id="estado">
+    <label for="name">Domicilio:</label>
+    <input type="text" class="form-control" id="Domicilio"/>
   </div>
-            <div class="form-group">
-    <label for="name">Ciudad</label>
-    <input type="text" class="form-control" id="ciudad">
-  </div>
+
          <div class="form-group">
-    <label for="email">Email address:</label>
-    <input type="email" class="form-control" id="email">
+    <label for="email">Email:</label>
+    <input type="email" class="form-control" id="Email"/>
   </div>
   <div class="form-group">
-    <label for="pwd">Password:</label>
-    <input type="password" class="form-control" id="pwd">
+    <label for="pwd">Contraseña:</label>
+    <input type="password" class="form-control" id="Password"/>
   </div>
   <div class="form-check">
     <label class="form-check-label">
-      <input class="form-check-input" type="checkbox"> Remember me
+      <input class="form-check-input" type="checkbox"/> Recordarme
     </label>
   </div>
   <button type="submit" class="btn btn-primary">Registrar</button>

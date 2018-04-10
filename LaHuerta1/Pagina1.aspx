@@ -153,9 +153,9 @@
            <br />
       Elaboramos y comercializamos productos de consumo humano, derivados del agua, con calidad e inocuidad, agregando valor en los procesos y a nuestras marcas.</p>
             <br />
-            <button type="button" class="btn btn-outline-primary" data-toggle="collapse" data-target="#mostrar">Para Mas Información Preciona aquí </button>
+            <button type="button" class="btn btn-outline-primary" data-toggle="collapse" data-target="#mostrar2">Para Mas Información Preciona aquí </button>
             
-           <div id ="mostrar" class="collapse">
+           <div id ="mostrar2" class="collapse">
           <p> Calle: Stella India #100(1.75km) 61940 Huetamo de Nuñez, Michoacan De Ocampo Mexico</p>
                <p>Numero de Telefono:01 435 556 3356</p>
              </div>
